@@ -1,0 +1,33 @@
+
+#mydatbody{
+    background-color: rgb(236, 228, 228);
+    color: brown;
+}
+#homebody{
+    
+    font-size: larger;
+    background-color: rgb(174, 184, 202);
+}
+#conbody{
+    background-color: rgb(244, 223, 177);
+
+}
+#fedbody{
+    background-color:rgb(78, 86, 78);
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+#projbody{
+    background-color: rgb(247, 232, 232);
+    color: rgb(117, 4, 60);
+    font-size: larger;
+
+}
+#skillsbody
+{
+    background-color: rgb(205, 213, 188);
+}
